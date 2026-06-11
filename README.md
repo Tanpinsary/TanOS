@@ -71,14 +71,6 @@ TanOS/
   figures/         Tutorial figures inherited from rCore
 ```
 
-## Study Plan
-
-The Rust learning route and TanOS implementation plan are documented in:
-
-```text
-TanOS_Rust_OS_Plan.md
-```
-
 ## License
 
 TanOS keeps the upstream rCore-Tutorial-v3 license. See `LICENSE` for details.
