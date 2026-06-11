@@ -1,7 +1,10 @@
 .*/*
 !.github/*
-!.vscode/settings.json
 !.devcontainer/devcontainer.json
+
+.vscode/
+.claude/
+.sisyphus/
 
 **/target/
 **/Cargo.lock
@@ -13,4 +16,3 @@ os/.gdb_history
 os/virt.out
 tools/
 pushall.sh
-.vscode/*.log
