@@ -16,3 +16,7 @@ os/.gdb_history
 os/virt.out
 tools/
 pushall.sh
+
+docs/report/
+docs/slides/
+assets/
